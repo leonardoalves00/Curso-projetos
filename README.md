@@ -3,3 +3,4 @@
 repositorio para alocar todos os projetos realizados no curso de desenvolvimento web
 
 Projeto 1: html/css
+Projeto 2: layout da pagina Noticia Cidade html/css
